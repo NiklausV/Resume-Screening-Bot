@@ -1,6 +1,6 @@
 # AI Resume Screening Bot
 
-A full-stack machine learning application that intelligently analyzes resumes against job descriptions using advanced Natural Language Processing (NLP) and provides holistic candidate evaluation with detailed insights.
+A full-stack machine learning application that analyzes resumes against job descriptions using advanced Natural Language Processing (NLP) and provides candidate evaluation with detailed insights.
 
 Author: Mustafa Hadi 
 
@@ -157,7 +157,7 @@ Final Score = (0.40 × Skills) + (0.25 × Experience) + (0.20 × Context) + (0.1
 - **45-59%**: "Consider Applying" - Moderate match, growth opportunity
 - **<45%**: "Not Recommended" - Limited match, build skills first
 
-### Key Improvements Over Basic Keyword Matching
+### Improvements Over Basic Keyword Matching
 
 **Holistic evaluation** instead of simple word counting  
 **Weighted scoring** prioritizes important factors  
@@ -308,7 +308,7 @@ echo "web: gunicorn app:app" > Procfile
 echo "gunicorn==21.2.0" >> requirements.txt
 
 # Deploy
-heroku create your-app-name
+heroku create resume-screening-bot
 git push heroku main
 ```
 
