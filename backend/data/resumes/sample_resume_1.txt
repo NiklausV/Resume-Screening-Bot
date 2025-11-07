@@ -1,0 +1,60 @@
+JOHN DOE
+Senior Software Engineer
+Email: john.doe@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe | GitHub: github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Engineer with 5+ years of experience in full-stack development, 
+specializing in Python, JavaScript, and cloud technologies. Proven track record of building 
+scalable web applications and implementing machine learning solutions. Strong background in 
+agile methodologies and team collaboration.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, SQL
+Web Technologies: React, Node.js, Django, Flask, Express.js, HTML5, CSS3
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins, Git, CI/CD
+Machine Learning: scikit-learn, TensorFlow, pandas, numpy, data analysis
+Tools & Methodologies: Agile, Scrum, REST APIs, GraphQL, Microservices, TDD
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Tech Solutions Inc. | Jan 2021 - Present
+• Led development of cloud-based SaaS platform serving 10,000+ users using Python and React
+• Implemented machine learning models for predictive analytics, improving accuracy by 35%
+• Designed and deployed RESTful APIs handling 1M+ requests daily
+• Mentored team of 4 junior developers and conducted code reviews
+• Reduced server costs by 40% through optimization and AWS resource management
+
+Software Engineer | Digital Innovations LLC | Jun 2019 - Dec 2020
+• Developed full-stack web applications using Django, React, and PostgreSQL
+• Built automated testing suite, increasing code coverage from 45% to 85%
+• Integrated third-party APIs and payment gateways (Stripe, PayPal)
+• Collaborated with cross-functional teams in agile sprints
+• Improved application performance by 50% through database optimization
+
+Junior Developer | StartUp Labs | Mar 2018 - May 2019
+• Created responsive web interfaces using JavaScript, HTML, and CSS
+• Developed backend services with Node.js and Express
+• Participated in daily standups and sprint planning meetings
+• Fixed bugs and implemented new features based on user feedback
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | Graduated: 2018
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate
+• Python for Data Science and Machine Learning (Udemy)
+• Full Stack Web Development (Coursera)
+
+PROJECTS
+Resume Screening Bot - Built ML-powered resume screening system using NLP and TF-IDF
+E-commerce Platform - Developed scalable online store with payment integration
+Real-time Chat App - Created WebSocket-based messaging application
+
+ACHIEVEMENTS
+• Won company hackathon for innovative ML solution
+• Published technical blog posts with 50K+ views
+• Contributed to 5+ open-source projects on GitHub

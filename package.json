@@ -1,0 +1,52 @@
+{
+  "name": "resume-screening-bot",
+  "version": "1.0.0",
+  "description": "A full-stack machine learning application that intelligently analyzes resumes against job descriptions using advanced Natural Language Processing (NLP) and provides holistic candidate evaluation with detailed insights.",
+  "main": "index.js",
+  "dependencies": {
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+  "start": "npm run backend && npm run frontend",
+  "backend": "cd backend && python3 app.py",
+  "frontend": "cd frontend && npm start"
+},
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiklausV/Resume-Screening-Bot.git"
+  },
+  "keywords": [],
+  "author": "Mustafa Hadi",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NiklausV/Resume-Screening-Bot/issues"
+  },
+  "homepage": "https://github.com/NiklausV/Resume-Screening-Bot#readme"
+}

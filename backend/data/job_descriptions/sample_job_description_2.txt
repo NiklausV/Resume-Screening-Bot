@@ -1,0 +1,29 @@
+Senior Frontend Developer - Digital Media Inc.
+
+Join our team to create beautiful, performant web applications that delight users.
+
+Required Skills:
+- 4+ years of experience with React or Vue.js
+- Expert knowledge of JavaScript/TypeScript
+- Strong understanding of HTML5, CSS3, and responsive design
+- Experience with state management (Redux, Context API)
+- Proficiency with modern build tools (Webpack, Vite)
+- Knowledge of RESTful APIs and asynchronous programming
+- Experience with testing frameworks (Jest, Cypress)
+- Understanding of web performance optimization
+- Familiarity with Git and version control workflows
+
+Preferred:
+- Experience with Next.js or Nuxt.js
+- Knowledge of GraphQL
+- UI/UX design skills
+- Experience with Tailwind CSS or Material-UI
+- Understanding of accessibility standards (WCAG)
+
+What You'll Do:
+- Build and maintain frontend applications using React
+- Create reusable UI components and libraries
+- Optimize applications for maximum speed and scalability
+- Ensure cross-browser compatibility
+- Collaborate with backend developers and designers
+- Mentor junior developers

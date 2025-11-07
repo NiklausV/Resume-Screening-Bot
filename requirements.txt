@@ -1,0 +1,31 @@
+# Core web framework
+Flask==3.0.3
+Flask-Cors==4.0.1
+
+# Machine Learning & NLP
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+
+# Text processing
+nltk==3.9.1
+regex==2024.11.6
+
+# File handling
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# Model persistence
+joblib==1.4.2
+
+# Deployment
+gunicorn==21.2.0
+
+# Optional utilities
+tqdm==4.66.5
+
+# For compatibility & security
+Werkzeug==3.0.3
+itsdangerous==2.2.0
+Jinja2==3.1.4
+click==8.1.7

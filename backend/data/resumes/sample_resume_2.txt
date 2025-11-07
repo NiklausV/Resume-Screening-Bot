@@ -1,0 +1,31 @@
+JANE SMITH
+Frontend Developer
+jane.smith@email.com | +1-987-654-3210
+
+SUMMARY
+Creative Frontend Developer with 4 years experience building responsive, user-friendly 
+web applications using modern JavaScript frameworks. Passionate about UI/UX design and 
+performance optimization.
+
+SKILLS
+- Frontend: React, Vue.js, Angular, TypeScript, HTML5, CSS3
+- Styling: Tailwind CSS, Material-UI, Bootstrap, SASS
+- State Management: Redux, Context API, Vuex
+- Testing: Jest, React Testing Library, Cypress
+- Tools: Webpack, Babel, Git, npm, VS Code
+
+EXPERIENCE
+
+Frontend Developer | WebCraft Agency | 2021 - Present
+- Developed 20+ responsive web applications using React and TypeScript
+- Improved page load time by 50% through code splitting and lazy loading
+- Collaborated with designers to implement pixel-perfect UI components
+- Mentored junior developers on React best practices
+
+Junior Frontend Developer | StartupXYZ | 2020 - 2021
+- Built reusable component library with React and Storybook
+- Integrated REST APIs and GraphQL endpoints
+- Implemented responsive designs for mobile and desktop
+
+EDUCATION
+Bachelor of Arts in Web Design | Design Institute | 2020

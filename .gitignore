@@ -1,0 +1,23 @@
+backend/venv/
+backend/models/
+backend/uploads/
+backend/__pycache__/
+
+# Frontend
+frontend/node_modules/
+
+#node modules
+node_modules/
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+node_modules
